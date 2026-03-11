@@ -1,6 +1,6 @@
 # Python Beginner Projects
 
-This repository contains three beginner-friendly Python projects. Each project is fully functional and comes with instructions to run.
+This repository contains All the beginner-friendly Python projects. Each project is fully functional and comes with instructions to run.
 
 ---
 
